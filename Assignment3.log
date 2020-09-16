@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 SEP 2020 11:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  16 SEP 2020 17:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -160,7 +160,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-(./Assignment3.aux (./Hendrix.aux))
+(./Assignment3.aux (./Hendrix.aux) (./Peng.aux) (./babyak.aux))
 \openout1 = `Assignment3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -175,7 +175,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
- ABD: EveryShipout initializing macros
+
+ABD: EveryShipout initializing macros
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count104
@@ -255,35 +256,68 @@ Package pdftex.def Info: hendrix_canvas.jpg  used on input line 6.
 ) [2
 
  <./hendrix_canvas.jpg>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 16.
+\openout2 = `Peng.aux'.
+
+ (./Peng.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
+<flainggg.jpg, id=12, 963.6pt x 956.57375pt>
+File: flainggg.jpg Graphic file (type jpg)
+<use flainggg.jpg>
+Package pdftex.def Info: flainggg.jpg  used on input line 17.
+(pdftex.def)             Requested size: 180.0pt x 178.68571pt.
+) [3
+
+
+ <./flainggg.jpg>]
+\openout2 = `babyak.aux'.
+
+ (./babyak.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 16.
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [3
+)
+<LoriSDSmall.JPG, id=18, 829.0975pt x 893.3375pt>
+File: LoriSDSmall.JPG Graphic file (type jpg)
+<use LoriSDSmall.JPG>
+Package pdftex.def Info: LoriSDSmall.JPG  used on input line 43.
+(pdftex.def)             Requested size: 137.9979pt x 148.68929pt.
+) [4
 
-]
-(./Assignment3.aux (./Hendrix.aux)) ) 
+
+ <./LoriSDSmall.JPG>] [5] [6
+
+] (./Assignment3.aux (./Hendrix.aux) (./Peng.aux) (./babyak.aux)) ) 
 Here is how much of TeX's memory you used:
- 3903 strings out of 492616
- 66076 string characters out of 6129482
- 136061 words of memory out of 5000000
- 7745 multiletter control sequences out of 15000+600000
- 6857 words of font info for 27 fonts, out of 8000000 for 9000
+ 3975 strings out of 492616
+ 66994 string characters out of 6129482
+ 136671 words of memory out of 5000000
+ 7788 multiletter control sequences out of 15000+600000
+ 11503 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,46p,1470b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb>
-Output written on Assignment3.pdf (3 pages, 329618 bytes).
+ 41i,7n,46p,1470b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/
+texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texliv
+e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/
+2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Assignment3.pdf (6 pages, 844674 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
