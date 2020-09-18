@@ -1,70 +1,63 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.8.27)  16 SEP 2020 21:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.17)  18 SEP 2020 00:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Assignment3.tex
 (./Assignment3.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-07-17>
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
-\c@figure=\count174
-\c@table=\count175
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)
-(/usr/share/texlive/texmf-dist/tex/latex/csvsimple/csvsimple.sty
+) (./csvsimple.sty
 Package: csvsimple 2019/04/09 version 1.21 LaTeX CSV file processing
 
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks15
+(./pgfrcs.sty (./pgfutil-common.tex
+\pgfutil@everybye=\toks14
 \pgfutil@tempdima=\dimen135
 \pgfutil@tempdimb=\dimen136
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
-ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+ (./pgfutil-common-lists.tex))
+(./pgfutil-latex.def
 \pgfutil@abb=\box45
-(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks16
-\pgfkeys@temptoks=\toks17
+)) (./pgfrcs.code.tex
+Package: pgfrcs 2014/07/01 v0.0 (0)
+)) (./pgfkeys.sty (./pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks15
+\pgfkeys@temptoks=\toks16
 
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
-ex
-\pgfkeys@tmptoks=\toks18
-))) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+(./pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks17
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count176
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count175
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 )
 \csv@file=\read2
-\c@csvinputline=\count177
-\c@csvrow=\count178
-\c@csvcol=\count179
+\c@csvinputline=\count176
+\c@csvrow=\count177
+\c@csvcol=\count178
 \csv@out=\write3
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
@@ -77,7 +70,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks19
+\@emptytoks=\toks18
 \ex@=\dimen137
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -87,13 +80,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count180
+\inf@bad=\count179
 LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count181
-\leftroot@=\count182
+\uproot@=\count180
+\leftroot@=\count181
 LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count183
-\DOTSCASE@=\count184
+\classnum@=\count182
+\DOTSCASE@=\count183
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
@@ -102,26 +95,26 @@ LaTeX Info: Redefining \cdots on input line 610.
 \big@size=\dimen139
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count185
-\c@MaxMatrixCols=\count186
+\macc@depth=\count184
+\c@MaxMatrixCols=\count185
 \dotsspace@=\muskip16
-\c@parentequation=\count187
-\dspbrk@lvl=\count188
-\tag@help=\toks20
-\row@=\count189
-\column@=\count190
-\maxfields@=\count191
-\andhelp@=\toks21
+\c@parentequation=\count186
+\dspbrk@lvl=\count187
+\tag@help=\toks19
+\row@=\count188
+\column@=\count189
+\maxfields@=\count190
+\andhelp@=\toks20
 \eqnshift@=\dimen140
 \alignsep@=\dimen141
 \tagshift@=\dimen142
 \tagwidth@=\dimen143
 \totwidth@=\dimen144
 \lineht@=\dimen145
-\@envbody=\toks22
+\@envbody=\toks21
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks23
+\mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
@@ -141,7 +134,7 @@ Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks24
+\KV@toks@=\toks23
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
@@ -161,11 +154,11 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@width=\dimen147
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count192
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count191
 \l__pdf_internal_box=\box48
 )
-(./Assignment3.aux (./Hendrix.aux) (./Peng.aux) (./babyak.aux))
+(./Assignment3.aux (./Hendrix.aux) (./Peng.aux) (./babyak.aux) (./Scott.aux))
 \openout1 = `Assignment3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -186,17 +179,17 @@ LaTeX Font Info:    ... okay on input line 7.
 ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count193
+\scratchcounter=\count192
 \scratchdimen=\dimen148
 \scratchbox=\box49
-\nofMPsegments=\count194
-\nofMParguments=\count195
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count196
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count195
 \MPscratchDim=\dimen149
-\MPnumerator=\count197
-\makeMPintoPDFobject=\count198
-\everyMPtoPDFconversion=\toks26
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks25
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -255,28 +248,40 @@ Package pdftex.def Info: LoriSDSmall.JPG  used on input line 43.
 ) [5
 
 
- <./LoriSDSmall.jpg>] [6] [7
+ <./LoriSDSmall.jpg>] [6]
+\openout2 = `Scott.aux'.
 
-] (./Assignment3.aux (./Hendrix.aux) (./Peng.aux) (./babyak.aux)) ) 
+ (./Scott.tex
+<jordan.jpg, id=30, 722.7pt x 722.7pt>
+File: jordan.jpg Graphic file (type jpg)
+<use jordan.jpg>
+Package pdftex.def Info: jordan.jpg  used on input line 23.
+(pdftex.def)             Requested size: 137.9979pt x 137.99812pt.
+) [7
+
+
+ <./jordan.jpg>] [8
+
+] (./Assignment3.aux (./Hendrix.aux) (./Peng.aux) (./babyak.aux) (./Scott.aux))
+ ) 
 Here is how much of TeX's memory you used:
- 3946 strings out of 482811
- 65403 string characters out of 5955740
- 304282 words of memory out of 5000000
- 19221 multiletter control sequences out of 15000+600000
- 543286 words of font info for 61 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 43i,7n,48p,1482b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
- </root/.tex
-live2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr17.pfb>
-Output written on Assignment3.pdf (7 pages, 840646 bytes).
+ 3961 strings out of 483183
+ 64288 string characters out of 5966292
+ 299557 words of memory out of 5000000
+ 18898 multiletter control sequences out of 15000+600000
+ 540536 words of font info for 56 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 43i,7n,48p,1482b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/uccs/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600p
+k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Assignment3.pdf (8 pages, 1680842 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
