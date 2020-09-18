@@ -2,14 +2,17 @@ This is BibTeX, Version 0.99d (TeX Live 2020/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Assignment3.aux
 A level-1 auxiliary file: Hendrix.aux
+A level-1 auxiliary file: Mofidi.aux
 A level-1 auxiliary file: Peng.aux
 A level-1 auxiliary file: babyak.aux
+A level-1 auxiliary file: zhang.aux
+A level-1 auxiliary file: Scott.aux
 I found no \citation commands---while reading file Assignment3.aux
 I found no \bibdata command---while reading file Assignment3.aux
 I found no \bibstyle command---while reading file Assignment3.aux
 You've used 0 entries,
             0 wiz_defined-function locations,
-            86 strings with 525 characters,
+            89 strings with 553 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
