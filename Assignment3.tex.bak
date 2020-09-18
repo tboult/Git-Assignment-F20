@@ -13,7 +13,7 @@
 \include{Hendrix}
 \include{Peng}
 \include{babyak}
-\include{zhang}
+
 
 \section{Example of Easy Tables}
 \csvautotabular{test.csv}
