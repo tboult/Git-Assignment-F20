@@ -11,9 +11,11 @@
 \section{Student content}
 
 \include{Hendrix}
+\include{Mofidi}
 \include{Peng}
 \include{babyak}
-
+\include{zhang}
+\include{Scott}
 
 \section{Example of Easy Tables}
 \csvautotabular{test.csv}
