@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.17)  18 SEP 2020 16:41
 entering extended mode
  restricted \write18 enabled.
@@ -51,20 +52,91 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count175
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.1)  19 SEP 2020 01:03
+entering extended mode
+**./Assignment3.tex
+(Assignment3.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07>
+(D:\System-Apps\Miktex\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(D:\System-Apps\Miktex\tex/latex/base\size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(D:\System-Apps\Miktex\tex/latex/csvsimple\csvsimple.sty
+Package: csvsimple 2019/04/09 version 1.21 LaTeX CSV file processing
+
+(D:\System-Apps\Miktex\tex/latex/pgf/utilities\pgfrcs.sty
+(D:\System-Apps\Miktex\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks15
+\pgfutil@tempdima=\dimen135
+\pgfutil@tempdimb=\dimen136
+
+(D:\System-Apps\Miktex\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
+(D:\System-Apps\Miktex\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box45
+
+(D:\System-Apps\Miktex\tex/latex/ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(D:\System-Apps\Miktex\tex/generic/pgf/utilities\pgfrcs.code.tex
+(D:\System-Apps\Miktex\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+(D:\System-Apps\Miktex\tex/latex/pgf/utilities\pgfkeys.sty
+(D:\System-Apps\Miktex\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks16
+\pgfkeys@temptoks=\toks17
+
+(D:\System-Apps\Miktex\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks18
+)))
+(D:\System-Apps\Miktex\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(D:\System-Apps\Miktex\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/08/24 v2.5j e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count176
+)
+(D:\System-Apps\Miktex\tex/latex/tools\shellesc.sty
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 )
 \csv@file=\read2
+<<<<<<< HEAD
 \c@csvinputline=\count176
 \c@csvrow=\count177
 \c@csvcol=\count178
 \csv@out=\write3
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+=======
+\c@csvinputline=\count177
+\c@csvrow=\count178
+\c@csvcol=\count179
+\csv@out=\write3
+)
+(D:\System-Apps\Miktex\tex/latex/amsmath\amsmath.sty
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
@@ -87,6 +159,30 @@ LaTeX Info: Redefining \frac on input line 227.
 LaTeX Info: Redefining \overline on input line 389.
 \classnum@=\count182
 \DOTSCASE@=\count183
+=======
+(D:\System-Apps\Miktex\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(D:\System-Apps\Miktex\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen137
+))
+(D:\System-Apps\Miktex\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen138
+)
+(D:\System-Apps\Miktex\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count180
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count181
+\leftroot@=\count182
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count183
+\DOTSCASE@=\count184
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 LaTeX Info: Redefining \ldots on input line 486.
 LaTeX Info: Redefining \dots on input line 489.
 LaTeX Info: Redefining \cdots on input line 610.
@@ -95,6 +191,7 @@ LaTeX Info: Redefining \cdots on input line 610.
 \big@size=\dimen139
 LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+<<<<<<< HEAD
 \macc@depth=\count184
 \c@MaxMatrixCols=\count185
 \dotsspace@=\muskip16
@@ -105,12 +202,25 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \column@=\count189
 \maxfields@=\count190
 \andhelp@=\toks20
+=======
+\macc@depth=\count185
+\c@MaxMatrixCols=\count186
+\dotsspace@=\muskip16
+\c@parentequation=\count187
+\dspbrk@lvl=\count188
+\tag@help=\toks20
+\row@=\count189
+\column@=\count190
+\maxfields@=\count191
+\andhelp@=\toks21
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 \eqnshift@=\dimen140
 \alignsep@=\dimen141
 \tagshift@=\dimen142
 \tagwidth@=\dimen143
 \totwidth@=\dimen144
 \lineht@=\dimen145
+<<<<<<< HEAD
 \@envbody=\toks21
 \multlinegap=\skip50
 \multlinetaggap=\skip51
@@ -122,6 +232,19 @@ LaTeX Info: Redefining \] on input line 2860.
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+=======
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(D:\System-Apps\Miktex\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(D:\System-Apps\Miktex\tex/latex/amsfonts\amsfonts.sty
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
@@ -129,6 +252,7 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -143,16 +267,37 @@ Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+=======
+(D:\System-Apps\Miktex\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\System-Apps\Miktex\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(D:\System-Apps\Miktex\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\System-Apps\Miktex\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(D:\System-Apps\Miktex\tex/latex/graphics-cfg\graphics.cfg
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+=======
+(D:\System-Apps\Miktex\tex/latex/graphics-def\pdftex.def
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen146
 \Gin@req@width=\dimen147
 )
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count191
@@ -164,6 +309,18 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 LaTeX Warning: Label `fig' multiply defined.
 
 ) (./Scott.aux))
+=======
+(D:\System-Apps\Miktex\tex/latex/l3backend\l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count192
+\l__pdf_internal_box=\box48
+)
+(Assignment3.aux (Hendrix.aux) (Mofidi.aux) (Peng.aux) (babyak.aux) (zhang.aux
+
+LaTeX Warning: Label `fig' multiply defined.
+
+) (Scott.aux))
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 \openout1 = `Assignment3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -181,6 +338,7 @@ LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
  ABD: EveryShipout initializing macros
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count192
@@ -210,6 +368,32 @@ e
 
  (./Hendrix.tex
 <hendrix_canvas.jpg, id=8, 3099.58pt x 2324.685pt>
+=======
+(D:\System-Apps\Miktex\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count193
+\scratchdimen=\dimen148
+\scratchbox=\box49
+\nofMPsegments=\count194
+\nofMParguments=\count195
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count196
+\MPscratchDim=\dimen149
+\MPnumerator=\count197
+\makeMPintoPDFobject=\count198
+\everyMPtoPDFconversion=\toks26
+) (D:\System-Apps\Miktex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+) [1
+
+{C:/Users/PC5634/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+\openout2 = `Hendrix.aux'.
+
+ (Hendrix.tex
+<hendrix_canvas.jpg, id=7, 3099.58pt x 2324.685pt>
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 File: hendrix_canvas.jpg Graphic file (type jpg)
 <use hendrix_canvas.jpg>
 Package pdftex.def Info: hendrix_canvas.jpg  used on input line 6.
@@ -244,20 +428,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--21
 ) [3]
 \openout2 = `Mofidi.aux'.
 
+<<<<<<< HEAD
  (./Mofidi.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+=======
+ (Mofidi.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
+ (D:\System-Apps\Miktex\tex/latex/amsfonts\umsa.fd
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
 
+<<<<<<< HEAD
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+=======
+(D:\System-Apps\Miktex\tex/latex/amsfonts\umsb.fd
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 LaTeX Warning: No \author given.
 
+<<<<<<< HEAD
 <a481.jpg, id=16, 80.7015pt x 102.3825pt>
+=======
+<a481.jpg, id=15, 80.7015pt x 102.3825pt>
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 File: a481.jpg Graphic file (type jpg)
 <use a481.jpg>
 Package pdftex.def Info: a481.jpg  used on input line 19.
@@ -265,15 +463,24 @@ Package pdftex.def Info: a481.jpg  used on input line 19.
 ) [4
 
 
+<<<<<<< HEAD
  <./a481.jpg>]
 \openout2 = `Peng.aux'.
 
  (./Peng.tex
 <flainggg.jpg, id=25, 963.6pt x 956.57375pt>
+=======
+ <./a481.jpg>] [5]
+\openout2 = `Peng.aux'.
+
+ (Peng.tex
+<flainggg.jpg, id=27, 963.6pt x 956.57375pt>
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 File: flainggg.jpg Graphic file (type jpg)
 <use flainggg.jpg>
 Package pdftex.def Info: flainggg.jpg  used on input line 17.
 (pdftex.def)             Requested size: 180.0pt x 178.68571pt.
+<<<<<<< HEAD
  [5
 
 
@@ -282,10 +489,21 @@ Package pdftex.def Info: flainggg.jpg  used on input line 17.
 
  (./babyak.tex
 <LoriSDSmall.JPG, id=33, 829.0975pt x 893.3375pt>
+=======
+ [6
+
+
+ <./flainggg.jpg>]) [7]
+\openout2 = `babyak.aux'.
+
+ (babyak.tex
+<LoriSDSmall.JPG, id=36, 829.0975pt x 893.3375pt>
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 File: LoriSDSmall.JPG Graphic file (type jpg)
 <use LoriSDSmall.JPG>
 Package pdftex.def Info: LoriSDSmall.JPG  used on input line 43.
 (pdftex.def)             Requested size: 137.9979pt x 148.68929pt.
+<<<<<<< HEAD
  [7
 
 
@@ -294,22 +512,42 @@ Package pdftex.def Info: LoriSDSmall.JPG  used on input line 43.
 
  (./zhang.tex
 <zhang.jpg, id=41, 72.27pt x 72.27pt>
+=======
+ [8
+
+
+ <./LoriSDSmall.JPG>]) [9]
+\openout2 = `zhang.aux'.
+
+ (zhang.tex
+<zhang.jpg, id=43, 72.27pt x 72.27pt>
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 File: zhang.jpg Graphic file (type jpg)
 <use zhang.jpg>
 Package pdftex.def Info: zhang.jpg  used on input line 5.
 (pdftex.def)             Requested size: 72.2698pt x 72.2698pt.
+<<<<<<< HEAD
 ) [9
+=======
+) [10
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 
 
  <./zhang.jpg>]
 \openout2 = `Scott.aux'.
 
+<<<<<<< HEAD
  (./Scott.tex
 <jordan.jpg, id=45, 722.7pt x 722.7pt>
+=======
+ (Scott.tex
+<jordan.jpg, id=47, 722.7pt x 722.7pt>
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 File: jordan.jpg Graphic file (type jpg)
 <use jordan.jpg>
 Package pdftex.def Info: jordan.jpg  used on input line 23.
 (pdftex.def)             Requested size: 137.9979pt x 137.99812pt.
+<<<<<<< HEAD
  [10
 
 
@@ -317,11 +555,45 @@ Package pdftex.def Info: jordan.jpg  used on input line 23.
 
 ] (./Assignment3.aux (./Hendrix.aux) (./Mofidi.aux) (./Peng.aux) (./babyak.aux)
  (./zhang.aux) (./Scott.aux))
+=======
+ [11
+
+
+ <./jordan.jpg>]) [12]
+\openout2 = `Psarakis.aux'.
+
+ (Psarakis.tex
+<mpsaraki.jpg, id=54, 313.9228pt x 440.39531pt>
+File: mpsaraki.jpg Graphic file (type jpg)
+<use mpsaraki.jpg>
+Package pdftex.def Info: mpsaraki.jpg  used on input line 4.
+(pdftex.def)             Requested size: 156.96101pt x 220.19711pt.
+) [13
+
+
+ <./mpsaraki.jpg>]
+\openout2 = `putman.aux'.
+
+ (putman.tex
+<putman.jpg, id=59, 271.0125pt x 389.20406pt>
+File: putman.jpg Graphic file (type jpg)
+<use putman.jpg>
+Package pdftex.def Info: putman.jpg  used on input line 4.
+(pdftex.def)             Requested size: 135.5059pt x 194.60155pt.
+ [14
+
+
+ <./putman.jpg>]) [15] [16
+
+] (Assignment3.aux (Hendrix.aux) (Mofidi.aux) (Peng.aux) (babyak.aux)
+(zhang.aux) (Scott.aux) (Psarakis.aux) (putman.aux))
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  4001 strings out of 483183
  64690 string characters out of 5966292
  300208 words of memory out of 5000000
@@ -344,4 +616,26 @@ PDF statistics:
  56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+ 4033 strings out of 481212
+ 66145 string characters out of 2916689
+ 309119 words of memory out of 3000000
+ 19510 multiletter control sequences out of 15000+200000
+ 544239 words of font info for 64 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,7n,48p,1487b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\PC5634\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
+m1000.pk><D:/System-Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/S
+ystem-Apps/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/System-Apps/Mik
+tex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D:/System-Apps/Miktex/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><D:/System-Apps/Miktex/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><D:/System-Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+<D:/System-Apps/Miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/System-Apps/
+Miktex/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Assignment3.pdf (16 pages, 1998451 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 395e345b13e2f4e534ee67e0916c1dac96bbad64
 
