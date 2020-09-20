@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.9.19)  19 SEP 2020 17:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.9.19)  19 SEP 2020 22:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -385,92 +385,142 @@ Package pdftex.def Info: mpsaraki.jpg  used on input line 4.
 
 
  <./mpsaraki.jpg>] [14]
+\openout2 = `putman.aux'.
+
+ (./putman.tex
+<putman.jpg, id=63, 271.0125pt x 389.20406pt>
+File: putman.jpg Graphic file (type jpg)
+<use putman.jpg>
+Package pdftex.def Info: putman.jpg  used on input line 4.
+(pdftex.def)             Requested size: 135.5059pt x 194.60155pt.
+ [15
+
+
+ <./putman.jpg>]) [16] [17]
 \openout2 = `Michael.aux'.
 
  (./Michael.tex
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \documentclass
-                  [11pt]{article}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \usepackage
-               {palatino, url, hyperref, cite, setspace, amssymb, amsfonts, ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 \begin{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<Michael_Headshot.jpg, id=63, 205.76875pt x 205.76875pt>
+<Michael_Headshot.jpg, id=73, 205.76875pt x 205.76875pt>
 File: Michael_Headshot.jpg Graphic file (type jpg)
 <use Michael_Headshot.jpg>
-Package pdftex.def Info: Michael_Headshot.jpg  used on input line 16.
+Package pdftex.def Info: Michael_Headshot.jpg  used on input line 13.
 (pdftex.def)             Requested size: 205.76823pt x 205.76823pt.
-[15
+ [18
 
 
- <./Michael_Headshot.jpg>] [16] (./Assignment3.aux (./Hendrix.aux)
-(./Mofidi.aux) (./Peng.aux) (./babyak.aux) (./zhang.aux) (./Scott.aux)
-(./Psarakis.aux) (./Michael.aux))
+ <./Michael_Headshot.jpg>]) [19]
+\openout2 = `Olawale.aux'.
+
+
+(./Olawale.tex
+<Olawale.jpg, id=81, 1450.06258pt x 1865.03226pt>
+File: Olawale.jpg Graphic file (type jpg)
+<use Olawale.jpg>
+Package pdftex.def Info: Olawale.jpg  used on input line 3.
+(pdftex.def)             Requested size: 142.24898pt x 170.69147pt.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [20
+
+
+ <./Olawale.jpg>]) [21]
+\openout2 = `ogundeko.aux'.
+
+ (./ogundeko.tex
+<ogundeko.JPG, id=88, 34.6896pt x 34.6896pt>
+File: ogundeko.JPG Graphic file (type jpg)
+<use ogundeko.JPG>
+Package pdftex.def Info: ogundeko.JPG  used on input line 6.
+(pdftex.def)             Requested size: 31.22034pt x 31.22034pt.
+ [22
+
+
+ <./ogundeko.JPG>]
+
+LaTeX Warning: Citation `b2' on page 23 undefined on input line 37.
+
+! Misplaced alignment tab character &.
+l.38 ...in IEEE Transactions on Pattern Analysis &
+                                                   Machine Intelligence in t...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+LaTeX Warning: Citation `b1' on page 23 undefined on input line 38.
+
+
+Overfull \hbox (34.38948pt too wide) in paragraph at lines 36--39
+\OT1/cmr/m/n/10 source:on source:Pattern source:Analysis source:and source:Mach
+ine source:Intelligence"
+ []
+
+[23]
+
+LaTeX Warning: Citation `b3' on page 24 undefined on input line 45.
+
+
+LaTeX Warning: Citation `b7' on page 24 undefined on input line 45.
+
+
+LaTeX Warning: Citation `b17' on page 24 undefined on input line 45.
+
+
+LaTeX Warning: Citation `b14' on page 24 undefined on input line 45.
+
+
+LaTeX Warning: Citation `b16' on page 24 undefined on input line 45.
+
+
+LaTeX Warning: Citation `b8' on page 24 undefined on input line 45.
+
+
+LaTeX Warning: Citation `b9' on page 24 undefined on input line 45.
+
+
+LaTeX Warning: Citation `b11' on page 24 undefined on input line 45.
+
+) [24] [25
+
+] (./Assignment3.aux (./Hendrix.aux) (./Mofidi.aux) (./Peng.aux)
+(./babyak.aux) (./zhang.aux) (./Scott.aux) (./Psarakis.aux) (./putman.aux)
+(./Michael.aux) (./Olawale.aux) (./ogundeko.aux))
+
+LaTeX Warning: There were undefined references.
+
 
 LaTeX Warning: There were multiply-defined labels.
 
- ) )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 4 (\begingroup)
-### bottom level
-(\end occurred when \iftrue on line 20 was incomplete)
-(\end occurred when \ifnum on line 20 was incomplete) 
+ ) 
 Here is how much of TeX's memory you used:
- 3704 strings out of 492982
- 60461 string characters out of 6134896
- 122530 words of memory out of 5000000
- 7147 multiletter control sequences out of 15000+600000
- 10925 words of font info for 41 fonts, out of 8000000 for 9000
+ 3783 strings out of 492982
+ 61670 string characters out of 6134896
+ 125530 words of memory out of 5000000
+ 7207 multiletter control sequences out of 15000+600000
+ 12624 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,46p,1466b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Assignment3.pdf (16 pages, 1632098 bytes).
+ 41i,7n,46p,1466b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmtt10.pfb>
+Output written on Assignment3.pdf (25 pages, 2007746 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 135 PDF objects out of 1000 (max. 8388607)
+ 87 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
