@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.9.19)  19 SEP 2020 21:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.9.19)  19 SEP 2020 22:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4653,7 +4653,20 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no l in font nullfont!
 Missing character: There is no [ in font nullfont!
-Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.60 ...ture, I realized that Qiang et al\cite{b3}
+                                                   elaborate on the concepts...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `b3' on page  undefined on input line 60.
+
 Missing character: There is no ] in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -4944,7 +4957,20 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no F in font nullfont!
 Missing character: There is no L in font nullfont!
 Missing character: There is no [ in font nullfont!
-Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.60 ...stems and applications used in FL\cite{b7}
+                                                  . However, despite other s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `b7' on page  undefined on input line 60.
+
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no H in font nullfont!
@@ -4984,17 +5010,95 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no F in font nullfont!
 Missing character: There is no L in font nullfont!
 Missing character: There is no [ in font nullfont!
-Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.60 ...pers in FL \cite{b17, b14, b16, b8,b9,b11}
+                                                  , to the best of our knowl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `b17' on page  undefined on input line 60.
+
 Missing character: There is no , in font nullfont!
-Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.60 ...pers in FL \cite{b17, b14, b16, b8,b9,b11}
+                                                  , to the best of our knowl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `b14' on page  undefined on input line 60.
+
 Missing character: There is no , in font nullfont!
-Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.60 ...pers in FL \cite{b17, b14, b16, b8,b9,b11}
+                                                  , to the best of our knowl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `b16' on page  undefined on input line 60.
+
 Missing character: There is no , in font nullfont!
-Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.60 ...pers in FL \cite{b17, b14, b16, b8,b9,b11}
+                                                  , to the best of our knowl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `b8' on page  undefined on input line 60.
+
 Missing character: There is no , in font nullfont!
-Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.60 ...pers in FL \cite{b17, b14, b16, b8,b9,b11}
+                                                  , to the best of our knowl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `b9' on page  undefined on input line 60.
+
 Missing character: There is no , in font nullfont!
-Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.60 ...pers in FL \cite{b17, b14, b16, b8,b9,b11}
+                                                  , to the best of our knowl...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `b11' on page  undefined on input line 60.
+
 Missing character: There is no ] in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -5720,24 +5824,29 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1] (./ogundeko.aux) )
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./ogundeko.aux)
+
+LaTeX Warning: There were undefined references.
+
+ )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 64 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 51 strings out of 492982
- 428 string characters out of 6134896
+ 34 strings out of 492982
+ 362 string characters out of 6134896
  59923 words of memory out of 5000000
- 3712 multiletter control sequences out of 15000+600000
- 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 3693 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 22i,4n,16p,1014b,128s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on ogundeko.pdf (1 page, 909 bytes).
+ 20i,4n,26p,1024b,128s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb>
+Output written on ogundeko.pdf (1 page, 9933 bytes).
 PDF statistics:
- 8 PDF objects out of 1000 (max. 8388607)
- 4 compressed objects within 1 object stream
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
