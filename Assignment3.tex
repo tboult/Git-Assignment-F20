@@ -20,7 +20,7 @@
 \include{putman}
 \include{Michael}
 \include{Olawale}
-\include{ogundeko}
+%\include{ogundeko}
 \include{Simeon}
 
 
@@ -30,11 +30,11 @@
 
 \section*{Better formated Tables}
     \begin{tabular}{r|r|r}%
-    % specify table head    
+    % specify table head
     \bf Time (s) & \bf Rel. time (s)& \bf Y Pos
 % use head of csv as column names
     \csvreader{test.csv}{}
-% specify selected coloumns here    
+% specify selected coloumns here
     {\\\hline\csvcoli&\csvcolii&\csvcolvi}
     \end{tabular}
     \clearpage
