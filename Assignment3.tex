@@ -19,8 +19,10 @@
 \include{Psarakis}
 \include{putman}
 \include{Olawale}
+\include{Simeon}
 \include{Michael}
 \include{ogundeko}
+
 
 \section{Example of Easy Tables}
 \csvautotabular{test.csv}
@@ -28,11 +30,11 @@
 
 \section*{Better formated Tables}
     \begin{tabular}{r|r|r}%
-    % specify table head    
+    % specify table head
     \bf Time (s) & \bf Rel. time (s)& \bf Y Pos
 % use head of csv as column names
     \csvreader{test.csv}{}
-% specify selected coloumns here    
+% specify selected coloumns here
     {\\\hline\csvcoli&\csvcolii&\csvcolvi}
     \end{tabular}
     \clearpage
